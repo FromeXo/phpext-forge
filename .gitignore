@@ -1,4 +1,9 @@
 /*
+!includes/cmd.sh
+!includes/index.php
+!includes/php.ini
+!.env
+!docker-compose.yml
 !Dockerfile
 !LICENSE
 !README.md
